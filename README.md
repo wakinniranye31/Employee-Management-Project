@@ -146,6 +146,8 @@ on E.EmployeeID = P.EmployeeID
 ORDER BY Rating DESC, ReviewDate DESC
 limit 0,5;
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/b4cb4cbfb84a7b9551ae6779c6bdad394df81ebc/Phase%205_Top%205%20Performers.png)
+
 -- Next 5 Employees (Pagination) --
 select * 
 from `employees` as E
