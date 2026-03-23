@@ -52,6 +52,7 @@ Generated insights from the query results.
 SELECT CONCAT(FirstName,' ', LastName) AS Full_name, email
 FROM `employees`;
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/52bda420384ec460da983e847e87448409a27023/Records%20of%20employee%20by%20their%20full%20names%20and%20email.png)
 
 -- Find active employees only --
 Select * 
