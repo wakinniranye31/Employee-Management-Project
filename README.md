@@ -153,3 +153,5 @@ join `performance` as P
 on E.EmployeeID = P.EmployeeID
 ORDER BY Rating DESC, ReviewDate DESC
 limit 5,5
+
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/509686b464393f947b0558bffb4417a849498212/Phase%205_Next%205%20Employees_Pagination.png)
