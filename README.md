@@ -93,6 +93,8 @@ JOIN `departments` AS D
 ON E.DepartmentID = D.DeptID
 where DeptName IN ('Human Resources', 'FINANCE');
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/1983e34d7ac8fb01af3da6b27da9af6955ce14aa/Information%20about%20employees%20from%20the%20HR%20and%20Finance%20department.png)
+
 -- Export records of employees aren’t active --
 SELECT *
 FROM `employees`
