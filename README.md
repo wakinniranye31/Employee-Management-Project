@@ -76,6 +76,7 @@ on D.DeptID = E.DepartmentID
 where DeptName = 'finance'
 and status = 'active';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/539c274a76cf45306516b818be54d2e24504dd37/Find%20employees%20from%20the%20finance%20department%20who%20are%20still%20active.png)
 
 -- employee records who are paid above one hundred thousand --
 select *
