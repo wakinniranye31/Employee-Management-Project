@@ -119,6 +119,7 @@ ON D.DeptID = E.DepartmentID
 WHERE DeptName = 'Finance'
 AND Status = 'Active';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/63ffe3433569dd774a97b46192a4cfc81b5ff23e/Records%20of%20employees%20from%20finance%20department%20and%20are%20still%20active.png)
 
 -- Order Employees by last name in alphabetical Alphabetically --
 SELECT *
