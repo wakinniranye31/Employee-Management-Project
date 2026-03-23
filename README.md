@@ -66,6 +66,7 @@ SELECT *
 FROM Attendance
 where status = 'Absent';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/344e3623b3fa9a2abbfc9fef4a9125a834e0ac33/Find%20employee%20who%20are%20absent.png)
 
 -- Find employees from the finance department who are still active --
 Select *
