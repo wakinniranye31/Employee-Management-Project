@@ -138,7 +138,9 @@ Order by SalaryAmount Desc;
 select distinct *
 from `departments`;
 
--- Top 5 Performers --
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/ea087b82450cae7d9226e21f7c14041c487c0e1b/Unique%20Departments%20in%20the%20organization.png)
+
+- Top 5 Performers --
 select * 
 from `employees` as E
 join `performance` as P
