@@ -109,6 +109,8 @@ join `attendance` AS A
 ON E.EmployeeID = a.EmployeeID
 WHERE AttendanceDate LIKE '2026-01-%';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/794a017592d735bc57558eaafa67c46d439742df/Attendance%20records%20of%20employees%20who%20were%20present%20in%20attendance%20only%20in%20Jan%202026.png)
+
 -- records of employees from finance department and are still active --
 select *
 from `employees` as E
