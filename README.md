@@ -100,6 +100,8 @@ SELECT *
 FROM `employees`
 WHERE STATUS != 'Active';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/c611ca8d3de5bba5afcafdcce19e3deb045ecc66/Export%20records%20of%20employees%20aren%E2%80%99t%20active.png)
+
 -- attendance records of employees who were present in attendance only in Jan 2026 --
 select *
 from `employees` as E
