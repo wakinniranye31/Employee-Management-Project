@@ -85,6 +85,7 @@ JOIN `salaries` as S
 ON E.EmployeeID = S.EmployeeID
 where SalaryAmount > 100000;
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/d408aee704df5595e4e0b79fef453e252dbe399f/Employee%20records%20who%20are%20paid%20above%20one%20hundred%20thousand.png)
 -- information about employees from the HR and Finance department --
 SELECT * 
 FROM `employees` AS E
