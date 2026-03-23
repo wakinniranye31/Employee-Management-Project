@@ -59,6 +59,8 @@ Select *
 from `employees`
 where status = 'Active';
 
+![image alt](https://github.com/wakinniranye31/Employee-Management-Project/blob/c32348c4c84687ebc317776a09b011602de525a8/Finding%20active%20employees%20only.png)
+
 -- Find employee who are absent --
 SELECT *
 FROM Attendance
